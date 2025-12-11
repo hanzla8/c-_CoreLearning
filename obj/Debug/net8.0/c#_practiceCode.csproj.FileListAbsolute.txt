@@ -1,0 +1,14 @@
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\bin\Debug\net8.0\c#_practiceCode.exe
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\bin\Debug\net8.0\c#_practiceCode.deps.json
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\bin\Debug\net8.0\c#_practiceCode.runtimeconfig.json
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\bin\Debug\net8.0\c#_practiceCode.dll
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\bin\Debug\net8.0\c#_practiceCode.pdb
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\c#_practiceCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\c#_practiceCode.AssemblyInfoInputs.cache
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\c#_practiceCode.AssemblyInfo.cs
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\c#_practiceCode.csproj.CoreCompileInputs.cache
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\c#_practiceCode.dll
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\refint\c#_practiceCode.dll
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\c#_practiceCode.pdb
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\c#_practiceCode.genruntimeconfig.cache
+D:\VisualStudio App\c#_practiceCode\c#_practiceCode\obj\Debug\net8.0\ref\c#_practiceCode.dll
